@@ -32,7 +32,7 @@
     "postcss-import": "^15.1.0",
     "postcss-loader": "^7.3.0",
     "qr-creator": "^1.0.0",
-    "rollbar": "^2.26.4",
+    "rollbar": "^2.26.5",
     "sass": "^1.62.1",
     "sass-loader": "^13.2.2",
     "shakapacker": "8.0.0",
